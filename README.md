@@ -1,3 +1,40 @@
+<div align="center">
+
+<img width="100%" src="docs/assets/sonoxo-ecosystem-orbit.svg" alt="GAME DEV AI ATLAS animated system flow" />
+
+# GAME DEV AI ATLAS
+
+### This curated list helps game developers find AI tools by production task rather than by vendor name.
+
+[Beginner map](#beginner-map) · [Original documentation](#original-documentation)
+
+</div>
+
+## Beginner map
+
+**01 — Name the production goal** → **02 — Open the matching category** → **03 — Compare listed tools** → **04 — Verify current terms yourself** → **05 — Try one in a small workflow**
+
+| Signal | What it means |
+|---|---|
+| **Input** | The starting request, file, data, or question |
+| **Core** | The project’s main processing or navigation step |
+| **Output** | The result a person reviews or uses |
+| **Verification** | Check source, configuration, test evidence, maintenance, and license before relying on it |
+
+> [!IMPORTANT]
+> **Repository status:** Fork or mirror of the linked community list. Original curation and contribution links remain attributed to `simoninithomas/awesome-ai-tools-for-game-dev`. Listings are references, not Sonoxo endorsements; pricing and availability can change.
+
+<details>
+<summary><strong>Accessible motion</strong></summary>
+
+The SVG includes descriptive text and automatically disables animation when **Reduce Motion** is enabled. It uses no JavaScript, trackers, autoplay video, or external image host.
+
+</details>
+
+---
+
+## Original documentation
+
 <img src="./assets/img/cover.jpg" alt="Awesome AI Tools for Game Developers"/>
 
 # Awesome AI Tools for Game Developers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
